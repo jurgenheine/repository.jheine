@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="repository.jheine" name="Repository J. Heine" version="1.0" provider-name="J. Heine">
 	<extension point="xbmc.addon.repository" name="Repository J. Heine">
-		<info compressed="false">https://raw.githubusercontent.com/jurgenheine/repository.jheine/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/jurgenheine/repository.jheine/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/jurgenheine/repository.jheine/master</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/jurgenheine/repository.jheine/Jarvis/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/jurgenheine/repository.jheine/Jarvis/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/jurgenheine/repository.jheine/Jarvis</datadir>
 	</extension>
 	  <extension point="xbmc.addon.metadata">
 		<language/>
