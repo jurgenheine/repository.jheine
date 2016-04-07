@@ -3,7 +3,7 @@
 	<extension point="xbmc.addon.repository" name="Repository J. Heine">
 		<info compressed="false">http://raw.githubusercontent.com/jurgenheine/repository.jheine/Jarvis/addons.xml</info>
 		<checksum>http://raw.githubusercontent.com/jurgenheine/repository.jheine/Jarvis/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.githubusercontent.com/jurgenheine/repository.jheine/Jarvis</datadir>
+		<datadir zip="true">http://raw.githubusercontent.com/jurgenheine/repository.jheine/Jarvis/</datadir>
 	</extension>
 	  <extension point="xbmc.addon.metadata">
 		<language/>
